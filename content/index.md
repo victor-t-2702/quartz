@@ -6,7 +6,9 @@ Howdy, welcome to my site! My name is Victor and I am an [Engineering Science](h
 
 - [projects](about/projects.md) i (and my teammates) have built;
 
+
+
 <figure>
-	<img src="me.jpeg" alt="me in cool place" width="50%" style="margin: auto;"/>
+	<img src="me.jpeg" alt="me in cool place" width="30%" style="margin: auto;"/>
 	</figcaption>
 </figure>
