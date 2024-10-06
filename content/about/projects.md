@@ -10,7 +10,7 @@ Here are some of my most interesting technical projects. This list is constantly
 
 ## Plate Pets
 
-This project came to be at the 2024 Storm Hacks Hackathon at SFU Burnaby campus. Working in a group of 4 of my closest engineering friends, we created an educational children's game that teaches children about certain animals' favourite foods. Runing on a Raspberry Pi and coded exclusively in Python, this project uses a PN532 NFC module and implements Adafruit's PN532 library to read and process UIDs from NFC tags. It also implements the Pygame library to animate the relevant animal and food pairs.
+This project came to be at the 2024 Storm Hacks Hackathon at SFU Burnaby campus. Working in a group of 4 of my closest engineering friends, we created an educational children's game that teaches children about certain animals' favourite foods. Running on a Raspberry Pi and coded exclusively in Python, this project uses a PN532 NFC module and implements Adafruit's PN532 library to read and process UIDs from NFC tags. It also implements the Pygame library to animate the relevant animal and food pairs.
 
 Stack: Python, Thonny IDE, Raspbian, Pygame, Github Desktop
 
