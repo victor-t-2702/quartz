@@ -2,7 +2,7 @@
 title: 🏡 Home
 ---
 
-Howdy, welcome to my site! My name is Victior and I'm an [Engineering Science](https://www.sfu.ca/engineering/prospective-students/undergraduate-students/programs.html) at Simon Fraser University in Burnaby, BC.
+Howdy, welcome to my site! My name is Victor and I'm an [Engineering Science](https://www.sfu.ca/engineering/prospective-students/undergraduate-students/programs.html) at Simon Fraser University in Burnaby, BC.
 
 
 I love tech
